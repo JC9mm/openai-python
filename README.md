@@ -1,3 +1,6 @@
+> **Repository classification:** Upstream SDK source snapshot · **Maintenance:** Historical reference, not the current SDK release.
+> Original upstream documentation is preserved below.
+
 # OpenAI Python API library
 
 [![PyPI version](https://img.shields.io/pypi/v/openai.svg)](https://pypi.org/project/openai/)
